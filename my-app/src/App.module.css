@@ -1,0 +1,40 @@
+
+html {
+  background-color: #3883a9;
+}
+main {
+    margin: 10% auto;
+    width: 350px;
+    font-size: larger;
+    background-color: white;
+    padding-bottom: 30px;
+    padding-top: 5px;
+    border-radius: 20px;
+}
+.inpMain {
+    margin-right: 5px;
+}
+.topMain{
+    text-align: center;
+}
+.delete {
+    margin-left: 5%;
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    border-color: #2180ed;
+    background-color: #2180ed;
+    color: white;
+    line-height: 1em;
+    /* margin-right: 10px; */
+}
+ul {
+    width: 250px;
+    margin: 5% auto;
+}
+.part {
+    display: flex;
+    justify-content: space-between;
+     margin-top: 2%;
+     flex-wrap: wrap;
+}
